@@ -1,80 +1,16 @@
-# Hi 👋 I'm Rishabh Yadav  
+# 💫 About Me:
+Hi 👋 I'm Rishabh Yadav  <br>A Computer Science graduate passionate about Data Analytics & Software Development.  <br>Skilled in Python, SQL, and building data-driven solutions 🚀<br>
 
-A motivated Computer Science graduate with strong fundamentals in **Python, SQL, and Software Development**,  
-passionate about **Data Analytics** and building **data-driven solutions** 🚀  
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/therishabhyadav313/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishabhyadav0313@gmail.com) 
 
-## 🧑‍💻 About Me  
-- 🎓 Computer Science Graduate  
-- 📊 Interested in Data Analytics & Software Development  
-- 🐍 Strong in Python & SQL  
-- 💡 Quick learner with hands-on project experience  
-
----
-
-## 🛠️ Tech Stack  
-
-**Languages:**  
-- Python  
-- SQL  
-- C++  
-
-**Data & Analytics:**  
-- Pandas  
-- NumPy  
-- Power BI  
-
-**Tools & Platforms:**  
-- Git & GitHub  
-- VS Code  
-
-**Database:**  
-- MySQL  
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rishabh0313&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rishabh0313&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh0313&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-## 🔭 Currently Working On  
-- Data Analytics projects using real-world datasets  
-- Improving problem-solving & DSA  
-- Exploring Machine Learning fundamentals  
-
----
-
-## 📌 Featured Projects  
-
-### 🔹 Credit Card Financial Dashboard  
-- Built an interactive Power BI dashboard  
-- Analyzed customer spending behavior and KPIs  
-- Improved financial insights using data visualization  
-
-🔗 Repository: https://github.com/YOUR_USERNAME/credit-card-financial-dashboard  
-
----
-
-### 🔹 Multiple PDF Reader  
-- Python-based application to manage multiple PDFs  
-- Enhanced document accessibility and usability  
-- Focused on clean code and modular design  
-
-🔗 Repository: https://github.com/YOUR_USERNAME/multiple-pdf-reader  
-
----
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
-## 📫 Connect With Me  
-
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN  
-- 📧 Email: yourmail@gmail.com  
-
----
-
-## ⚡ Fun Fact  
-I enjoy turning raw data into meaningful insights 📈
+[![](https://visitcount.itsvg.in/api?id=Rishabh0313&icon=0&color=0)](https://visitcount.itsvg.in)
